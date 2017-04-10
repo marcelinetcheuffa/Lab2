@@ -11,7 +11,6 @@ public class Word {
 	 * @param translate
 	 */
 	public Word(String alienWord, String translation) {
-		super();
 		this.alienWord = alienWord;
 		this.translation = translation;
 	}
